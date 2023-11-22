@@ -22,7 +22,8 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ellucidator&show_icons=true&theme=dracula&count_private=true" alt="Leal GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ellucidator&show_icons=true&theme=transparent" alt="Anurag's GitHub stats" width="400" height="300">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ellucidator&layout=compact" alt="Top Langs" width="400" height="300">
 </div>
 
 <h2 align="center">Tecnologias que eu uso no meu dia a dia</h2>
@@ -33,10 +34,4 @@
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ellucidator&layout=donut" alt="Top Langs" />
 </div>
