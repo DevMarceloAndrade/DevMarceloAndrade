@@ -4,7 +4,7 @@
 
 <h3 >Olá, eu sou Marcelo Leal 👋</h3>
 
-<p >Sou um desenvolvedor em formação, apaixonado por tecnologia desde que me conheço por gente. Posso dizer que a maior parte do meu tempo livre é passada em frente ao PC. Hoje, uso-o para estudar, visualizar meus objetivos e batalhar por eles 🤖</p>
+<p >Sou um desenvolvedor em formação, apaixonado por tecnologia desde que me conheço por gente. Posso dizer que a maior parte do meu tempo livre já era passado em frente ao PC. Hoje, uso-o para estudar, visualizar meus objetivos e batalhar por eles 🤖</p>
 
 <br/>
 
