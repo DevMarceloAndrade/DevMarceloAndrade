@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="" src="https://images8.alphacoders.com/115/thumb-1920-1156488.png" />
+  <img alt="" src="https://www.alura.com.br/artigos/assets/como-criar-um-readme-para-seu-perfil-github/como-criar-um-readme-para-seu-perfil-github.jpg" />
 </div>
 
 <h3 >Olá, eu sou Marcelo Leal 👋</h3>
