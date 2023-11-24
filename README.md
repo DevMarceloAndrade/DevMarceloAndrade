@@ -6,10 +6,8 @@
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ellucidator&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://media.sproutsocial.com/uploads/5d_facebook-cover-photo_clean@2x.png" />
 </p>
-
-
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Ellucidator&show_icons=true&count_private=true&hide_border=true&title_color=4169E1&icon_color=4169E1&text_color=c9d1d9&bg_color=0d1117" alt="Marcelo Leal github stats" /> 
