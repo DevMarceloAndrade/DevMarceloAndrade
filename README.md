@@ -10,8 +10,8 @@
 </p>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Ellucidator&show_icons=true&count_private=true&hide_border=true&title_color=4169E1&icon_color=4169E1&text_color=c9d1d9&bg_color=0d1117" alt="Marcelo Leal github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ellucidator&layout=compact&hide_border=true&title_color=4169E1&text_color=4169E1&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Ellucidator&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="Marcelo Leal github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ellucidator&layout=compact&hide_border=true&title_color=4169E1&text_color=4169E1&bg_color=0d1117&(https://github.com/anuraghazra/github-readme-stats)" />
 </div>
 
 
