@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&color=4169E1&size=32&center=true&vCenter=true&width=900&lines=Ol%C3%A1%2C+eu+sou+o+Marcelo+Leal+%F0%9F%91%8B;Desenvolvedor+Fullstack+Pleno;Formado+em+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Seja+bem-vindo+ao+meu+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&color=4169E1&size=32&center=true&vCenter=true&width=900&lines=Ol%C3%A1%2C+eu+sou+o+Marcelo+Leal+%F0%9F%91%8B;Desenvolvedor+Fullstack+Pleno;Especialista+em+IA+aplicada%3A+Agents%2C+RAG+e+MCP;Formado+em+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Seja+bem-vindo+ao+meu+GitHub!)](https://git.io/typing-svg)
 
 <a href="https://marceloandradedev.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portf%C3%B3lio-4169E1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"/></a>
 <a href="https://www.linkedin.com/in/dev-marcelo-leal/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg==" alt="LinkedIn"/></a>
@@ -14,11 +14,27 @@
 
 Sou desenvolvedor **Fullstack Pleno**, formado em **Análise e Desenvolvimento de Sistemas**. Trabalho de ponta a ponta: das interfaces em **React/Next.js** às APIs em **Node.js (NestJS)** e **Java (Spring Boot)**, passando por banco de dados, containers e deploy.
 
+Também sou especialista em **otimizar o uso de agentes de IA** no desenvolvimento de software, com **RAG**, **MCP** e memória de contexto.
+
 - 🚀 Construo e mantenho aplicações web completas, do front ao servidor em produção
 - 🧱 Gosto de código bem estruturado, tipado e fácil de manter
 - 🐳 Coloco aplicações no ar com Docker, proxy reverso e CI/CD
-- 🤖 Integro sistemas com automações e APIs externas (n8n, WhatsApp via Evolution API)
+- ⚙️ Integro sistemas com automações e APIs externas (n8n, WhatsApp via Evolution API)
 - 🌐 Mais sobre mim e meus projetos no [portfólio](https://marceloandradedev.vercel.app)
+
+## 🧠 IA aplicada ao desenvolvimento
+
+Meu foco é fazer agentes de IA renderem mais: dar a eles o contexto certo, na hora certa, com menos retrabalho e menos ruído.
+
+- 🤖 **AI Agents**: desenho e otimização de fluxos de trabalho com agentes de IA
+- 📚 **RAG**: recuperação de contexto para respostas fundamentadas em documentação e código
+- 🔌 **MCP (Model Context Protocol)**: integração de agentes com ferramentas, APIs e fontes de dados
+- 🗂️ **Memória técnica centralizada**: implementei uma base de conhecimento técnico compartilhada entre agentes que otimizou o uso deles por toda uma equipe de desenvolvimento
+
+![AI Agents](https://img.shields.io/badge/AI_Agents-4169E1?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-4169E1?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-0D1117?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 
 ## 🛠️ Tecnologias
 
