@@ -34,7 +34,6 @@ Meu foco é fazer agentes de IA renderem mais: dar a eles o contexto certo, na h
 ![AI Agents](https://img.shields.io/badge/AI_Agents-4169E1?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-4169E1?style=for-the-badge)
 ![MCP](https://img.shields.io/badge/MCP-0D1117?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 
 ## 🛠️ Tecnologias
 
