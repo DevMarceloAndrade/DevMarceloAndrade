@@ -12,7 +12,7 @@
 
 ### Oi, eu sou o Marcelo
 
-Dev fullstack pleno, formado em Análise e Desenvolvimento de Sistemas. Gosto de pegar uma ideia e levar até o fim: a tela em React ou Next.js, a API em NestJS ou Spring Boot, o banco, o container e o deploy. Quando dá problema em produção, também sou eu que vou atrás.
+Dev fullstack pleno, formado em Análise e Desenvolvimento de Sistemas. Gosto de pegar uma ideia e levar até o fim: a tela em React ou Next.js, a API em NestJS ou Spring Boot, o banco, o container e o deploy. Quando dá problema to sempre preparado pra resolver.
 
 ### IA, do jeito que funciona
 
